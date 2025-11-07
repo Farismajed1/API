@@ -21,7 +21,7 @@
       "title": "Grilled Salmon Steak",
       "description": "Fresh Atlantic salmon steak grilled to perfection, finished with a squeeze of lemon and a drizzle of herb butter. Served with seasonal vegetables for a light yet satisfying dish.",
       "price": 9.99,
-      "image": "http://images.unsplash.com/photo-1641898378716-1f38ec04bb0f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
+      "image": "https://images.unsplash.com/photo-1707576517985-a2e912cca325?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
       "category": "mains"
     },
     {
