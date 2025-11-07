@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "title": "Pumpkin Ginger Soup with Coconut Milk and Mint",
+      "title": "Pumpkin Ginger Soup",
       "description": "A velvety blend of roasted pumpkin and fresh ginger, simmered in creamy coconut milk for a touch of tropical richness. Finished with a hint of lime and a sprinkle of fresh mint, this warming soup balances comfort and brightness in every spoonful — perfect for any season.",
       "price": 4.99,
       "image": "https://images.unsplash.com/photo-1613844237701-8f3664fc2eff?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=764",
